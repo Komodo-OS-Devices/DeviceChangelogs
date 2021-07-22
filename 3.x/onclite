@@ -1,0 +1,83 @@
+|=========| Redmi 7 / Onclite |==========|
+
+Date : 22/07/2021
+
+Device Changelogs:
+
+• Import QCC VND HAL blobs from LA.UM.9.6.2.r1-04100-89xx.0
+• Import Radio/eMBMS blobs from LA.UM.9.6.2.r1-04200-89xx.0
+• Import missing FM Radio blobs from LA.UM.9.6.2.r1-03600-89xx.0
+• Update ANT+ blobs from LA.UM.9.6.2.r1-04200-89xx.0
+• Update Peripheral manager blobs from LA.UM.9.6.2.r1-04200-89xx.0
+• Update Power-off alarm blobs LA.UM.9.6.2.r1-04200-89xx.0
+• Update Time services blobs from LA.UM.9.6.2.r1-04100-89xx.0
+• Update TUI blobs from LA.UM.9.6.2.r1-04200-89xx.0
+• Update Camera stack from MIUI V12.5.1.0 QFLCNXM
+• Update Camera/Arcsoft stack from MIUI V12.5.1.0 QFLCNXM
+• Update Camera/Binary/Actuators stack from MIUI V12.5.1.0 QFLCNXM
+• Update Camera/Chromatix stack from MIUI V12.5.1.0 QFLCNXM
+• Update Camera/Configs stack from MIUI V12.5.1.0 QFLCNXM
+• Update Camera/OIS/Sensors stack from MIUI V12.5.1.0 QFLCNXM
+• Update Firmware stack from MIUI V12.5.1.0 QFLCNXM
+• Update CNE blobs from Nokia 3.2 (deadpool) RKQ1.200928.002 release
+• Update DPM blobs from Nokia 3.2 (deadpool) RKQ1.200928.002 release
+• Update Graphics blobs from Nokia 3.2 (deadpool) RKQ1.200928.002 release
+• Update Graphics/Adreno and Vulkan blobs from Nokia 3.2 (deadpool) RKQ1.200928.002 release
+• Update Graphics/Postprocessing blobs from Nokia 3.2 (deadpool) RKQ1.200928.002 release
+• Update Graphics/Qdutils blobs from Nokia 3.2 (deadpool) RKQ1.200928.002 release
+• Update Media stack from Nokia 3.2 (deadpool) RKQ1.200928.002 release
+• Update Radio blobs from Nokia 3.2 (deadpool) RKQ1.200928.002 release
+• Update Radio/IMS blobs from from Nokia 3.2 (deadpool) RKQ1.200928.002 release
+• Update Radio/IMS VT blobs from from Nokia 3.2 (deadpool) RKQ1.200928.002 release
+• Update Radio/QCRIL blobs from Nokia 3.2 (deadpool) RKQ1.200928.002 release
+• Update Wi-Fi Display blobs from Nokia 3.2 (deadpool) RKQ1.200928.002 release
+• Bring back Wi-Fi Display (WFD) support
+• Add IImsFactory and uceservice HAL entry
+• Add IMS Daemon entries to init.target.rc
+• Add Time Services properties
+• Add net_raw permissions for Time Daemon service
+• Add property value to indicate support for dual SIM mode
+• Add prop for USB OTG
+• Address Alarm SEPolicy denials
+• Address Time Daemon SEPolicy denials
+• Build libstagefright_enc_common package for WFD
+• Build vendor variant of libdng_sdk package for Camera
+• Build vendor variant of libqdMetaData package
+• Build vendor version of libavservices_minijail package
+• Bump IRTPService to 3.0
+• Bump IDisplayConfig to 2.0
+• Bump IImsRadio HAL to 1.6
+• Bump IQtiRadio to 2.4
+• Use xiaomi Dalvik VM changes from MIUI V12.5.1.0 QFLCNXM
+• Import HWUI props from MIUI V12.5.1.0 QFLCNXM
+• Compile libOmxG711Enc package for OMX
+• Create CneApp symlinks
+• Don't advertise vorbis offloading support
+• Drop a shim for libdpmframework
+• Drop Soundtrigger HAL
+• Drop unused data migration files
+• Enable Iorapd tracing with Perfetto
+• Enable readahead for Iorapd
+• Explicitly add needed Camera libs for IMS
+• Kang phase offset from pa-surya/device_xiaomi_surya tree
+• Kill IMS log spam
+• Provide a shim for libwfdmmsink
+• Refactor & Fix WCNSS symlink
+• Remove GNSS HIDL entries in manifest
+• Remove bogus ebtables/ethertypes/libebtc packages
+• Remove deprecated liboverlay target
+• Remove unnecessary android.hardware.radio entries
+• Remove unnecessary netutils packages
+• Set default color mode to 0
+• Setprop Alarm service for qcom early boot script
+• Split system, vendor and product props
+• Trim QTI whitelists
+
+Notes :
+
+• Clean Flash recommended
+• TOXICOFERA release
+• Recommended to use FlameGApps basic
+• Use Magisk v23 if wanna root
+• CTS/SafetyNet need MagiskHide
+• Banking apps working
