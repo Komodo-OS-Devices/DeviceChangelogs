@@ -1,0 +1,9 @@
+Komodo OS for Redmi 8/8A/8A Dual changelog:
+
+            •••09.09.2021•••
+- Removed bugged FM Radio
+- Added Russian translation for customizations
+- Fixed GCamGO crashes in some cases
+- Updated device tree
+- Updated kernel to 4.9.281
+- Switched to "user" build type
