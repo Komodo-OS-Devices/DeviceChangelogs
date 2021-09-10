@@ -1,3 +1,10 @@
-• Shipped with Mi-Bengal .157
-• Compiled with Gengkapak Clang
-• Optimized with Clang ThinLTO and Polly
+|==========| POCO M3/Redmi 9T |=========|
+
+Build Date : 10/09/2021
+
+• Many bug fixes
+• Remove virtual framebuffer
+• Add Some Graphics Prop
+• Add NotchBarKiller
+• SafetyNet? Who cares about this shit
+• Some bugs here and there
