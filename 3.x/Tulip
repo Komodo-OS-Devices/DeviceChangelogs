@@ -1,0 +1,10 @@
+Komodo OS for Redmi Note 6 Pro changelog:
+
+            •••11.09.2021•••
+
+- Add GCamGO
+- Updated device tree
+- Updated kernel to 4.4.283
+- Safteynet pass without root
+- Fixed GCamGO crashes in some cases
+- Added Russian translation for customizations
