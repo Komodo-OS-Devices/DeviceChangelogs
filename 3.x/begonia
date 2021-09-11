@@ -1,0 +1,17 @@
+Komodo OS 3.2.1 For Redmi Note 8 Pro
+Build Date 11-Sep-2021
+
+           "Device Changelogs"
+           
+* Merged to latest source.
+* Updated Fingerprint to September Redfin.
+* Switched To Base Firmware Global MIUI 12.5
+* Switched To OSS Wpa_Supplicant & Hostapd
+* Switched To OSS Kernel & DTBO
+* Upstream Kernel to Linux 4.14.246
+* Compiled Using Proton Clang 13.0.0
+* Updated Brightness Values From Redfin
+* Updated Device Cutout Dimens Values
+* Fixed L1 Issue For Some Users
+* Fixed Encryption
+* SELinux Enforcing
