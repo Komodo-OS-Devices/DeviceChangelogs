@@ -1,16 +1,27 @@
 |==========| Realme C3/Narzo 10A / RMX2020 |=========|
 
-Build Date : 23/7/2021
+Build Date : 11/09/2021
 
-• Initial Build from his side
-• Many bug fixes
-• July Security Patch
-• More RAM optimization
-• Added many new features
-• Enforcing+Encrypted
-• Shipped with NEOLIT Minimal OSS
-• FPS meter and DT2W working
+• Vendor: Realme UI 1.0 
+• Prebuilt Required Firmware: Realme UI 1.0 A33+ 
 
-Bugs:
-• Fingerprint not working in et512
-• You tell more
+• Changelog : 
+- Sept Security Patch 
+- More RAM optimizations 
+- Use NEOLIT Minimal OSS 
+- New Performance Profiles added in Realme Parts 
+- Optimized system stability and Performance
+
+• Bugs:
+- You tell more
+
+• Notes
+- Gapps included
+- Need Clean Flash
+
+• Credits: 
+- Thanks To All Team Komodo 
+- Thanks to Witcher for helping with 
+  initial Trees and Himanshu and sarthak for helping with enforcing and 
+  phh for VoLTE fix 
+- Thanks to Testers
