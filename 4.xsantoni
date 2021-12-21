@@ -1,0 +1,38 @@
+|==========| Redmi 4X |=========|
+
+Build date: 21/12/21
+
+Changelogs:
+• Updated Audio properties and configs from LA.UM.9.6.2.r1-04800-89xx.0
+
+• Updated Radio(RIL) properties for QCRIL
+
+• Enabled DPM Connection Tracking again
+
+• Added feature "Wakeup screen without fingerprint"
+
+• Added GoogleCameraGo
+
+• Make UI More Smoother
+
+• Overlay: Enable Smart Charging
+
+• Ignore RSSNR Signal Level
+
+• Disable bluetooth by default
+
+• Enable LED Charging by default
+
+• Fix Hostpot Problem which causes the others to error
+
+• Fix Bluetooth Issue 
+
+• Removed unused sensors.ssc.so dependency
+
+• Switched to Audio HAL from LA.UM.9.6.2.r1-04800-89xx.0
+
+• Switched to QCRIL
+
+• Selinux: Address denials
+
+• Kernel: Use mi8937 Kernel (Thanks to @me_cafebabe)
