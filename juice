@@ -1,0 +1,8 @@
+|==========| Poco M3/Redmi 9T |=========|
+
+Build date: 24/12/21
+• Initial Android 12 Release
+• Shipped with StormBreaker Kernel
+• Switch to SkiaGL
+• Enable HW Composition
+• Disable latch buffers unsignal
