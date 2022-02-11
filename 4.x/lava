@@ -1,7 +1,11 @@
 |==========| Redmi 9/Poco M2 |=========|
 
-Build Date: 18/01/22
-• Initial Build
-• Fixed VoLte
-• Fixed blinking recovery
-• Shipped with Yukina kernel
+Build Date: 11/02/22
+• Upstream kernel to 4.14.265
+• Prebuilt GcamGO
+• Tune Zram Performance
+• Reduce screenshot delay
+• Enable Fps Meter
+• Enable Aod
+• Shipped with Violet kernel
+• Safetynet passed by default
