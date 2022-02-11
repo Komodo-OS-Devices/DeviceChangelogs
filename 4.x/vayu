@@ -1,0 +1,66 @@
+|==========| POCO X3 Pro / Vayu |==========|
+
+Komodo OS v4.1 | Official
+Codename: Serunai
+Build date: 11/02/2022
+by @zkyzzz x @alanndz
+
+Source Changelog:
+Full Changelog (https://komodo-os.my.id/changelog.html)
+
+Device Changelog:
+- Fixup SurfaceFlinger service pinning
+- Fixup task_profiles usage on vendor init script
+- Update IMS libs from alioth-qssi-user-12-SKQ1.210908.001
+
+Kernel Changelog:
+- Add LionSemi LN8000 charger driver
+- Fix screenshot button issues on FPC fingerprint
+- Merge CAF tag LA.UM.9.1.r1-11600-SMxxx0.0
+- Merge Linux stable v4.14.265
+
+|==========| POCO X3 Pro / Vayu |==========|
+
+Komodo OS v4.0 | Official
+Codename: Sabre
+Build date: 05/01/2022
+by @zkyzzz x @alanndz
+
+Source Changelog:
+- Update Raven Fingerprint To January 2022
+
+Device Changelog:
+- Fixed CTS SafetyNet
+- Added Back Chaldeaprjkt GameSpace
+- Update AOSP Clang To 14.0.1
+- Several fixes for Dirac Sound Enhancer
+- Add bass booster preset for MiSound
+- Remove renderscript from VINTF and move renderengine to threaded skia
+
+|==========| POCO X3 Pro / Vayu |==========|
+
+Komodo OS v4.0 | Official
+Build date: 08/01/2022
+by @zkyzzz x @alanndz
+
+Changelog:
+- January Security Patch
+- Merge tag 'android-12.0.0_r26'
+- Full Changelog (https://komodo-os.my.id/changelog.html)
+
+Device Changelog:
+- Switch To Chaldea Kernel (Thanks to nullxception for awesome kernel)
+- Switch To AOSP Clang 14
+- Upgrade to PowerHAL 1.3 (libperfmgr) w/ optimized setup
+- Remove IO read_ahead_kb tune
+- Trim qcom.post_boot script for msmnile
+- Remove hints for Adaptive Battery CPU Throttling
+- Remove schedutil ratelimit setup
+- Optimize CPU frequency tables and hinting defaults
+- Register dummy libqti-perfd-client to public-libraries back
+- Migrate to Xiaomi power AIDL HAL
+- Enable F2F2 background GC
+- Add f2fs sysfs permission
+- Replace SchedtuneHighCap with WALT's sched boost
+- Tune down schedtune boost
+- Tune GPU freq table and power mode defaults
