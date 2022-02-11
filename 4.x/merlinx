@@ -1,7 +1,9 @@
  |==========| Redmi Note 9 |=========|
 
-Build Date: 18/01/22
-• VoLTE Works Fine
-• January Security Patch
-• Upstream Kernel to 4.14.262
+Build Date: 11/02/22
+• February Security Patch
+• Add FPS Info Overlay
+• Upstream Kernel to 4.14.265
 • Safetynet Passed By Default
+• Enable Stune Boost for Top App
+• Shipped With Violet-Kernel
