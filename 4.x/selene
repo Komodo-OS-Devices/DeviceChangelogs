@@ -1,0 +1,9 @@
+|==========| Redmi 10 |=========|
+
+Build Date: 13/02/22
+• Initial Build
+• Upstream kernel to 4.14.265
+• Enable Aod but disable by default
+• Enable Fps meter
+• SELinux Enforcing
+• VoLte fixed
