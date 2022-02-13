@@ -6,3 +6,11 @@ Build date: 24/12/21
 • Switch to SkiaGL
 • Enable HW Composition
 • Disable latch buffers unsignal
+
+Date : 13/02/2022
+Changelog :
+• Fixed bluetooth audio issue
+• Use SkiaGL for HWUI renderer
+• AOSP BT
+• Shipped with 4.19.225 GreenForce Kernel
+
