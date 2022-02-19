@@ -1,0 +1,23 @@
+|==========| POCO X3 NFC / Surya |==========|
+
+Komodo OS v4.1 | Official
+Codename: Serunai
+Build date: 19/02/2022
+by @nowulimited
+
+Source Changelog:
+Full Changelog (https://komodo-os.my.id/changelog.html)
+
+Device Changelog:
+• Initial Build
+• Update blobs from miui v12.5.4.0
+• SilonT-Marin v4.14.267 as Default Kernel
+• Import VulkanAPI Layers from Google Pixel 4
+• Sync durations props with raven
+• Sync idle/touch timer to raven
+• Disable vsync for CPU rendered Apps
+
+Notes:
+• GApps Already Included
+• Clean flash is mandatory
+• FW already included
