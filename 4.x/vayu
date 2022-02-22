@@ -2,6 +2,40 @@
 
 Komodo OS v4.1 | Official
 Codename: Serunai
+Build date: 22/02/2022
+by @zkyzzz x @alanndz
+
+Source Changelog:
+Full Changelog (https://komodo-os.my.id/changelog.html)
+
+Device Changelog:
+• Add Thermal Profile Shortcut On QS Tile
+• Add Dirac QS Tile
+• Add More Dirac Preset
+• Add long-click action for HBM and CABC QS Tile
+• Enable FUSE Passthrough for better sdcard performance
+• Fix memory-leak problem on Dirac
+• Fix some VNDK related issues
+• Fix thermald inconsistency problem
+• Fix video encoding problem on GCam
+• GPS HAL Improvement
+• Switch to QTI Bluetooth HAL
+• Switch to aLn kernel
+• Kernel: Upstream kernel to 4.14.267
+• Kernel: Backport rcu from kernel 5.x
+• Kernel: Backport process reclaim from redbull
+• Kernel: Enable workqueue power-efficient mode by default
+• Kernel: Disable per-cgroup pressure tracking
+• Kernel: Remove unnecessary fps values from dfps-list
+• Kernel: Add 75 fps value to dfps-list
+• Kernel: Minimize alarmtimer wakeup time
+• Kernel: Change max readahead size to 128KB
+• Kernel: Add support FUSE Passthrough
+
+|==========| POCO X3 Pro / Vayu |==========|
+
+Komodo OS v4.1 | Official
+Codename: Serunai
 Build date: 11/02/2022
 by @zkyzzz x @alanndz
 
