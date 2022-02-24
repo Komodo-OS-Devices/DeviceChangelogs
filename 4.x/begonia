@@ -1,0 +1,27 @@
+|==========| Redmi Note 8 Pro / Begonia |==========|
+
+Komodo OS v4.1 | Official
+Codename: Serunai
+Build date: 24/02/2022
+by @TeraaBytee
+
+Device Changelogs:
+* February security patch
+* Fixed Telephony issue
+* Added face unlock
+* Uprev audio hals to 7.0
+* Clean up trash blobs
+* Ship prebuild miui dtbo
+* Import Gcam buffer fix camera blobs 
+* Update blobs from 12.5.7.0.RGGMIXM
+
+|==========| Redmi Note 8 Pro / Begonia |==========|
+
+Komodo OS v4.0 | Official
+Codename: Serunai
+Build date: 05/02/2022
+by @TeraaBytee
+
+Device Changelogs:
+* Initial Android 12 Release.
+* SELinux enforcing
