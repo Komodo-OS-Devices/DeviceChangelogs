@@ -1,0 +1,8 @@
+|==========| Redmi 9C/9C NFC/9A/9India/POCO C3 |=========|
+
+Build Date: 26/02/2022
+Changelog:
+• Initial build
+• Set ZRAM Size 50% of ram size
+• Fixed hotspot issue
+• SELinux Enforcing
