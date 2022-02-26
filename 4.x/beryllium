@@ -2,6 +2,22 @@
 
 Komodo OS v4.1 | Official
 Codename: Serunai
+Build date: 25/02/2022
+by @zkyzzz
+
+Source Changelog:
+• Added Face Unlock Support
+• New Bootanimation
+Full Changelog (https://komodo-os.my.id/changelog.html)
+
+Device Changelog:
+• Add Simple Face Unlock (Not IR)
+• Add Dirac QS Tile
+
+|==========| POCO F1 / Beryllium |==========|
+
+Komodo OS v4.1 | Official
+Codename: Serunai
 Build date: 13/02/2022
 by @zkyzzz
 
@@ -10,7 +26,7 @@ Full Changelog (https://komodo-os.my.id/changelog.html)
 
 Device Changelog:
 • Initial Official Android 12 Build for Beryllium
-• Bumped To Version 4.3 (Codename: Serunai)
+• Bumped To Version 4.1 (Codename: Serunai)
 • Updated SilverCore kernel to latest
 • Switch to AOSP BT Stack
 • Synced with the latest Chaldeaprjkt Gamespace updates
