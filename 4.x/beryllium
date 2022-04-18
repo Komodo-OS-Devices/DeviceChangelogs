@@ -1,5 +1,30 @@
 |==========| POCO F1 / Beryllium |==========|
 
+Komodo OS v4.2 | Official
+Codename: Sakura
+Build date: 18/04/2022
+by @zkyzzz
+
+Source Changelog:
+• Merged April 2022 patch
+• Bump version to 4.2
+• Rebased android-12.1.0_r4
+• Full Changelog: (https://komodo-os.my.id/changelog.html)
+
+Device Changelog:
+• Initial Android 12L Build
+• IR FaceUnlock
+• Enforcing Build
+• Disabled Force Encryption
+• Switch to QTI Bluetooth HAL
+• Switch to Rockstar Kernel
+
+Thanks to:
+• @XtremeOrnob for based trees
+• @dhruv_gera for kernel
+
+|==========| POCO F1 / Beryllium |==========|
+
 Komodo OS v4.1 | Official
 Codename: Serunai
 Build date: 25/02/2022
