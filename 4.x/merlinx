@@ -1,9 +1,9 @@
  |==========| Redmi Note 9 |=========|
 
-Build Date: 11/02/22
-• February Security Patch
-• Add FPS Info Overlay
-• Upstream Kernel to 4.14.265
-• Safetynet Passed By Default
-• Enable Stune Boost for Top App
-• Shipped With Violet-Kernel
+Build Date: 19/04/22
+• April Security Patch
+• Shipped With Pizza 275 Kernel
+• Safetynet Passed
+• Drop HintManager for HWUI
+• Fall Back to Q Power hal
+• Silence some spammy logtags
