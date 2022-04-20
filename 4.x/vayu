@@ -1,5 +1,36 @@
 |==========| POCO X3 Pro / Vayu |==========|
 
+Komodo OS v4.2 | Official
+Codename: Sakura
+Android Version: 12L (12.1)
+Build date: 19/04/2022
+by @zkyzzz x @alanndz
+
+Source Changelog:
+• Bump to 4.2 Codename Sakura
+• Merged April 2022 Security Patch
+• Rebased android-12.1.0_r4
+Full Changelog (https://komodo-os.my.id/changelog.html)
+
+Device Changelog:
+• Update blobs from MIUI 13.0.1.0.SJUIDXM
+• Fixed Side FP Sensor Indicator Location
+• Changed back product code into M2102J20SG for unlocking more FPS Option
+• Import Power-libperfmgr, Powerstats from Pixel
+• Migrate to Pixel thermal
+• Remove Thermal Profiles
+• Add Per-App Touch Control
+• Several SELinux denial fixes
+
+Kernel Changelog:
+• Add New Waifu aLn Zeta
+• Upstream kernel to 4.14.275
+• Disable LLVM Polly
+Full Changelog: (https://github.com/aLnProject/kernel_xiaomi_vayu/commits/zeta)
+
+
+|==========| POCO X3 Pro / Vayu |==========|
+
 Komodo OS v4.1 | Official
 Codename: Serunai
 Build date: 22/02/2022
