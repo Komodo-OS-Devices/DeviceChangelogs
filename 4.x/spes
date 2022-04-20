@@ -1,0 +1,14 @@
+|==========| Redmi Note 11 | spes/spesn |=========|
+
+Build date 20/04/22
+• Initial Official build
+• Shipping blobs from MIUI 13.0.5.0 RGCMIXM
+• OSS vendor with prebuilt kernel
+• SELinux Enforcing
+
+Known Issue
+• Vibration
+• NFC ( can't build )
+• GPU can't detect
+
+* Tell me with logs if you found bug
