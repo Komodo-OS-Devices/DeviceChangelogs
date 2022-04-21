@@ -1,10 +1,31 @@
-Komodo OS for Redmi Note 6 Pro changelog:
+|==========| Redmi Note 6 Pro | Tulip |==========|
 
-            •••11.09.2021•••
+Komodo OS v4.2 | Official
+Codename: Sakura
+Build date: 19/04/2022
+By : @OFFICIAL_MOCHA
 
-- Add GCamGO
-- Updated device tree
-- Updated kernel to 4.4.283
-- Safteynet pass without root
-- Fixed GCamGO crashes in some cases
-- Added Russian translation for customizations
+Source Changelog:
+• Merged April 2022 patch
+• Bump version to 4.2
+• Rebased android-12.1.0_r4
+• Full Changelog: (https://komodo-os.my.id/changelog.html)
+
+Device Changelog:
+• Initial Android 12L Build
+• IR FaceUnlock
+• Enforcing Build
+• Add Cpu Tem 
+• Add GoogleCameraGo
+• Enable Always On Display
+• Enable Freeform Windows
+• Radical Ice 4.4 Kernel Build
+• Enable LED Based Vibrator
+• Enable VoLTE And VoWIFI For All
+• Default To Full Gesture Navigation
+• Add Proper Support For 5GHz Hotspot 
+• Show Turbo charging instead of Charging rapidly
+• some minor improvements
+
+Thanks to:
+•  @arturo51236 for kernel
