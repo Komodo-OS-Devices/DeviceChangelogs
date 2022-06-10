@@ -1,5 +1,40 @@
 |==========| POCO X3 Pro / Vayu |==========|
 
+Komodo OS v4.3 | Official
+Codename: SweetPea
+Android Version: 12L (12.1)
+Build Date: 09/06/2022
+by @zkyzzz x @alanndz
+
+Source Changelog:
+• Bump to 4.3 Codename SweetPea
+• Merged June 2022 Security Patch
+• Merged android tag android-12.1.0_r8
+Full Changelog (https://komodo-os.my.id/changelog.html)
+
+Device Changelog:
+• Use aLn Zeta kernel
+• Update surfaceflinger props
+• Switch to Vulkan for UI rendering
+• Update build info from V13.0.2.0.SJUIDXM
+• Disable debug.sf.latch_unsignaled from prop to reduces notification flicker
+• Disable debug.sf.enable_hwc_vds from prop to fix lagging on screen recording
+• Rework init.qcom.power.rc
+• Rework and optimize powerhint.json
+• Apply a boost after fp is authenticated
+• Import power_profile from coral
+• Fix deprecated power profile items
+• thermal: Bump little cluster threshold a bit higher
+• thermal: Count for max value instead of weighted average
+• Several SELinux denial fixes
+
+Kernel Changelog:
+•Upstream linux to 4.14.281
+Full Changelog (https://github.com/aLnProject/kernel_xiaomi_vayu/commits/zeta-staging)
+
+
+|==========| POCO X3 Pro / Vayu |==========|
+
 Komodo OS v4.2 | Official
 Codename: Sakura
 Android Version: 12L (12.1)
