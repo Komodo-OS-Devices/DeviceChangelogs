@@ -1,5 +1,32 @@
 |==========| Realme C2 | RMX1941 |=========|
 
+Build date: 12/06/22
+• set logger buffer size to 256K
+• Improvement init.performance
+• Enable EAS instead of HMP
+• Stop NFC hal on non-NFC device
+• Address mtk_hal_camera denies
+• Dynamically Allocate zram
+• Switch to prebuilt GrapheneOS Camera
+• Sync idle/touch to raven
+• set readahead_size_kb=128 to system and data
+• enable Call recording feature for GDialer
+• Update Build fp from Coral April'22 A12.1
+• Prefer hwcodecs for thumbnails
+• Disable TTS force stop warning
+• tune zram performance
+• Enable USB and skin temperature warnings
+• Hide GPS logs by default
+• fix deprecated power profile items
+• Dontaudit untrusted_app to open ashmem_device
+• Allow rild to access persist.ss.imsi.info prop 
+
+* facing bug ? tell in device support group
+
+___________________________________________
+
+|==========| Realme C2 | RMX1941 |=========|
+
 Build date: 17/04/22
 • Fix Some bugs
 • Improve Performance
