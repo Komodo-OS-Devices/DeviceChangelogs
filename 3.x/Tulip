@@ -1,5 +1,28 @@
 |==========| Redmi Note 6 Pro | Tulip |==========|
 
+Komodo OS v4.3 | Official
+Codename: SweetPea
+Build date: 14/06/2022
+By : @OFFICIAL_MOCHA
+
+Source Changelog:
+• Bump to 4.3 Codename SweetPea
+• Merged June 2022 Security Patch
+• Merged android tag android-12.1.0_r8
+• Full Changelog (https://komodo-os.my.id/changelog.html)
+
+Device Changelog:
+• Fixed Vibration 
+• Enforcing Build
+• Enable Face Unlock
+• Remove GoogleCameraGo
+• Bump ZRAM Size To 2GB
+• Switch To Falcon 4.4 Kernel
+• Add support for Google Dialer Call recording
+• Improved performance and Stability
+
+|==========| Redmi Note 6 Pro | Tulip |==========|
+
 Komodo OS v4.2 | Official
 Codename: Sakura
 Build date: 19/04/2022
@@ -26,6 +49,3 @@ Device Changelog:
 • Add Proper Support For 5GHz Hotspot 
 • Show Turbo charging instead of Charging rapidly
 • some minor improvements
-
-Thanks to:
-•  @arturo51236 for kernel
