@@ -1,5 +1,18 @@
  |==========| Redmi Note 9 |=========|
 
+Build Date: 15/06/22
+• Upstream Kernel to 4.14.282
+• Adapt statusbar height for A12L QPR3
+• Switch to 64bit powerhal
+• Make gain control work properly
+• Add GPU scheduling mode change command
+• Checkout surfaceflinger offsets from stock
+• Use input boost to improve interaction hint
+• Drop uneeded vendor libs
+• Add in MTK APP TOUCH hints to INTERACTION hint
+
+|===============================|
+
 Build Date: 19/04/22
 • April Security Patch
 • Shipped With Pizza 275 Kernel
