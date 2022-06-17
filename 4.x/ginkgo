@@ -1,5 +1,18 @@
 |==========| Redmi Note 8/8T |=========|
 
+Build Date: 15/06/22
+• Upstreamed QuicksilveR kernel v4.14.282
+• Switch to Graphene Camera
+• Enable VoLTE Support for Telkomsel, Smartfren
+• Make fingerprint HIDL fully treble compliant
+• Enforce S new launch debugfs restrictions
+• Don't mount TraceFS twice
+• Relax WiFi re-association RSSI thresholds
+• Disable RX wakelock feature
+• Set ZSTD as default zram compression algorithm
+
+|===============================|
+
 Build date: 20/04/22
 • Initial Android 12.1 Release
 • Upstreamed QuicksilveR kernel v4.14.275
