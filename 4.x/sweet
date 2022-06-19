@@ -1,9 +1,18 @@
 |==========| Redmi Note 10 Pro/Max | sweet |=========|
 
-Build date: 14/02/22
-• Initial Official release
+Build date: 19/06/22
 • Shipping with OSS vendor
 • Vantom Kernel Default
-• Gapps Build
+• Gapps build
+• Fixed pip on netflix
+• Fixed 5ghz hotspot
+• Added Support smart pixels
+• Update adreno from LA.UM.9.1.r1-11500.02-SMxxx0.QSSI12.0  
+• Switched to playground clang
+• More misc. changes and fixes
 
-* facing bug ? tell in device support group
+Note:
+• Due to the change to F2FS compression, I recommend clean flashing this build with orangefox recovery
+  https://t.me/sayooxxprojtChat/6642
+
+* Reporting bugs without proper logs will be considered as feature :)
