@@ -1,5 +1,43 @@
 |==========| POCO F1 / Beryllium |==========|
 
+Komodo OS v4.3 | Official
+Codename: SweetPea
+Build date: 20/06/2022
+by @zkyzzz
+
+Source Changelog:
+• Merged June 2022 patch
+• Bump version to 4.3 Codename SweetPea
+• Merged android-12.1.0_r8
+• Full Changelog: (https://komodo-os.my.id/changelog.html)
+
+Device Changelogs:
+• Adapt new statusbar dimens
+• Fixed PowerOffAlarm
+• Fixed unable to add Emergency contact
+• Disable slow blur effect
+• Enable usage of dex2oat64
+• Update Surfaceflinger props
+• Update config_wallpaperMaxScale value
+• Added one-handed mode
+• Several SELinux denial fixes
+• Synced with latest Silvercore kernel changes
+
+Notes:
+• Toxicofera & GApps build
+• System_Ext Support Not Added
+• You Can Flash Any Non-System_ext Supported Kernel
+
+Thanks To:
+• Allah SWT
+• Komodo OS Team
+• #xisan & #XtremeOrnob for base trees
+• #Excraze & #HeshamGazzaz for help and fixes
+• #Reignz3 for kernel
+• All testers
+
+|==========| POCO F1 / Beryllium |==========|
+
 Komodo OS v4.2 | Official
 Codename: Sakura
 Build date: 18/04/2022
