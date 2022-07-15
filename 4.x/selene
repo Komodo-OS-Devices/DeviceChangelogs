@@ -1,5 +1,17 @@
 |==========| Redmi 10 |=========|
 
+Build Date: 10/07/2022
+• Upstream Kernel to 4.14.287
+• Bring back 32bit hw mtkpower 1.1 libs
+• Resize some reserved size for partitions
+• Add symlink bootdevice
+• Set readahead_size_kb=128 to system and data
+• Enable window freeform management
+• Add selene,selenes,eos board support
+• Address init denials
+
+|===============================|
+
 Build Date: 10/06/2022
 • Upstream Kernel to 4.14.282
 • Adapt statusbar height for A12L QPR3
