@@ -1,5 +1,14 @@
 |==========| Redmi Note 8/8T |=========|
 
+Build Date: 16/07/22
+• Upstreamed QuicksilveR kernel v4.14.286
+• Update Hals GPS to LA.UM.9.1.r1-12000.01-SMxxx0.QSSI12.0
+• Move Ximiprot to System
+• Remove vendor RenderScript implementation
+• USe Lawnchair Launcher
+
+|===============================|
+
 Build Date: 15/06/22
 • Upstreamed QuicksilveR kernel v4.14.282
 • Switch to Graphene Camera
