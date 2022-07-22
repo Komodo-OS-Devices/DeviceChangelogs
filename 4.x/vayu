@@ -1,5 +1,31 @@
 |==========| POCO X3 Pro / Vayu |==========|
 
+Komodo OS v4.4 | Official
+Codename: Seroja
+Android Version: 12L (12.1)
+Build Date: 22/07/2022
+by @zkyzzz x @alanndz
+
+Source Changelog:
+• Bump to 4.4 Codename Seroja
+• Merged July 2022 Security Patch
+• Merged android tag android-12.1.0_r11
+Full Changelog (https://komodo-os.my.id/changelog.html)
+
+Device Changelogs:
+• XiaomiParts: Add KCAL
+• props: Switch back to OpenGL(Skia) for UI rendering
+• thermal: reduce battery monitor idle range
+• init: Remove UnityMain from sched_lib_name
+• Several SEPolicy denial Fixes
+
+Kernel Changelog:
+•Upstream linux to 4.14.288
+Full Changelog (https://github.com/aLnProject/kernel_xiaomi_vayu/commits/zeta-staging)
+
+
+|==========| POCO X3 Pro / Vayu |==========|
+
 Komodo OS v4.3 | Official
 Codename: SweetPea
 Android Version: 12L (12.1)
