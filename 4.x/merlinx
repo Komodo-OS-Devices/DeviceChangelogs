@@ -1,5 +1,14 @@
  |==========| Redmi Note 9 |=========|
 
+Build Date: 16/08/22
+• August Security Patch
+• Upstream Kernel to 4.14.290
+• Use New Power HAL custom library
+• Switch to Runtime Resource Overlays
+• Include Google Camera buffer fix
+
+|===============================|
+
 Build Date: 15/07/22
 • July Security Patch
 • Upstream Kernel to 4.14.288
