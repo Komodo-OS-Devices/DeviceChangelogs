@@ -1,5 +1,13 @@
 |==========| Redmi Note 10 Pro/Max | sweet |=========|
 
+Build date: 18/8/22
+• August Security Patch
+• Update adreno from LA.UM.9.14.r1-19300-LAHAINA
+• Added MiCam 4.3
+• Support F2fs Compression
+• Vantom Kernel Default 290
+• Lawnchair is Default Launcher
+
 Build date: 19/06/22
 • Shipping with OSS vendor
 • Vantom Kernel Default
@@ -12,7 +20,5 @@ Build date: 19/06/22
 • More misc. changes and fixes
 
 Note:
-• Due to the change to F2FS compression, I recommend clean flashing this build with orangefox recovery
-  https://t.me/sayooxxprojtChat/6642
-
-* Reporting bugs without proper logs will be considered as feature :)
+• The latest MIUI 13 firmware for your region is recommended
+• Flash with twrp or orange fox by aryan
