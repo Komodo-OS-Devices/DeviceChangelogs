@@ -1,5 +1,42 @@
 |==========| POCO F1 / Beryllium |==========|
 
+Komodo OS v4.5 | Official
+Codename: Snowdrop
+Build date: 01/08/2022
+by @zkyzzz
+
+Source Changelog:
+• Merged August 2022 patch
+• Bump version to 4.5 Codename Snowdrop
+• Full Changelog: (https://komodo-os.my.id/changelog.html)
+
+Device Changelogs:
+• Move renderengine to threaded skia
+• Pick up USB configurations from QCOM
+• Tune PowerHint
+• Fix PowerHAL Nodes
+• Update SurfaceFlinger Offset Values from Raven
+• Tune Keyboard Tap Vibe Pattern
+• Disable phantom process monitoring
+• Several SEPolicy fixed
+• Misc. Changes and Improvements
+
+Thanks To:
+• Allah SWT
+• Komodo OS Team
+• #xisan & #XtremeOrnob for base trees
+• #Excraze & #HeshamGazzaz for help and fixes
+• #Reignz3 for kernel
+• All testers
+
+Notes:
+• Latest TWRP by Reignz is MANDATORY
+• Toxicofera & GApps Build
+• System_Ext Support Added
+• You Can Flash Any System_ext Supported Kernel
+
+|==========| POCO F1 / Beryllium |==========|
+
 Komodo OS v4.4 | Official
 Codename: Seroja
 Build date: 18/07/2022
