@@ -1,5 +1,22 @@
 |==========| Redmi Note 11 | spes/spesn |=========|
 
+Build date 06/09/22
+• Switch to common tree ( SM6225/Bengal )
+• Update blobs to MIUI V13.0.4.0.SGCMIXM
+• Update prebuilt kernel from MIUI A12
+• Increase brightness overlays
+• Fix Vibration
+• Fix NFC
+• Fix GPU Detected
+• Improved SElinux denials
+• Many changes with the common tree
+
+Known Issue
+• Camera on Discord,Meet Zoom apps
+• MTP USB ( use from Dev Option )
+
+|=================================================|
+
 Build date 20/04/22
 • Initial Official build
 • Shipping blobs from MIUI 13.0.5.0 RGCMIXM
