@@ -1,5 +1,18 @@
 |==========| Redmi Note 10 | mojito |=========|
 
+Build date: 15/09/22
+• Update blobs to MIUI V13.0.10.0.SKGMIXM
+• Shipping with LegionX-//Tempest
+• Fix mic volume
+• Fix Incall mic headphones
+• Resolve battery health
+• Disable userspace LMK
+• Improved GPU Boost
+• Add Xiaomi Bluetooth Boost ( Perf )
+• Improved SElinux and many issue
+
+|=============================================|
+
 Build date: 17/02/22
 • Initial Official release
 • Shipping with OSS vendor
