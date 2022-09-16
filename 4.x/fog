@@ -1,0 +1,15 @@
+|==========| Redmi 10C / Power | fog |=========|
+
+Build date: 15/09/22
+• Initial Official build
+• Update common blobs to MIUI V13.0.4.0.SGCMIXM ( SM6225/Bengal )
+• Update device blobs to MIUI V13.0.2.0.SGEMIXM
+• Update to A12 prebuilt kernel
+• Fix Autobrightness
+• Improved SElinux denials
+• Etc.
+
+Known Issue:
+• Camera Zoom,Discord Apps
+• MTP USB ( handle with Dev Options )
+• Video playback
